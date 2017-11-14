@@ -1,0 +1,124 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btn_fetch"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Fetch One Ad" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" 
+            android:orientation="vertical" >
+			<TextView android:id="@+id/tv_mention"
+				    android:layout_width="wrap_content"
+				    android:layout_height="wrap_content"
+				    android:text="样式1："
+				    android:layout_margin="6dp"/>
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/rlTemplate1" 
+                android:background="#ebf1be">
+                
+				 <ImageView
+                    android:id="@+id/iv_icon"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp" 
+                    android:layout_margin="8dp"/>
+                <TextView
+                    android:id="@+id/iv_title"
+                    android:textSize="20sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@id/iv_icon"
+                    android:layout_margin="10dp"
+                    android:textColor="#000"
+                    />
+
+                <ImageView
+                    android:id="@+id/iv_main"
+                    android:layout_width="300dp"
+                    android:layout_height="250dp"
+                    android:scaleType="fitCenter" 
+                    android:layout_below="@id/iv_icon"
+                    android:layout_marginTop="10dp"
+                    android:layout_centerHorizontal="true"/>
+                
+                <ImageView
+                    android:id="@+id/iv_baidulogo"
+                    android:layout_width="18dp"
+                    android:layout_height="18dp"
+                    android:layout_alignParentBottom="true"
+                    android:layout_toLeftOf="@id/iv_main"
+                    />
+                <ImageView
+                    android:id="@+id/iv_adlogo"
+                    android:layout_width="25dp"
+                    android:layout_height="13dp"
+                    android:layout_alignParentBottom="true"
+                    android:layout_toRightOf="@id/iv_main"
+                    />
+            </RelativeLayout>
+            <TextView android:id="@+id/tv_mention2"
+				    android:layout_width="wrap_content"
+				    android:layout_height="wrap_content"
+				    android:text="样式2："
+				    android:layout_margin="5dp"/>
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="100dp" 
+                 android:id="@+id/rlTemplate2" 
+                 android:background="#fbdbc2">
+
+                <ImageView
+                    android:id="@+id/iv_icon2"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp" 
+                    android:layout_margin="5dp"
+                    android:layout_centerVertical="true"/>
+                <TextView
+                    android:id="@+id/iv_title2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@id/iv_icon2"
+                    android:layout_margin="10dp"
+                    android:singleLine="true"
+                    android:textSize="20sp"
+                    android:textColor="#000"
+                    
+                    />
+                <TextView
+                    android:id="@+id/iv_desc2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@id/iv_icon2"
+                    android:layout_below="@id/iv_title2"
+                    android:layout_marginLeft="8dp"
+                    android:textColor="#000"
+                    />
+                <TextView
+                    android:id="@+id/iv_cta"
+                    android:layout_width="80dp"
+                    android:layout_height="40dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_margin="10dp"
+                    android:textColor="#ffffff"
+                    android:text="代码被注释"
+                    android:background="#8ec52f"
+                    android:gravity="center"
+                    />
+            </RelativeLayout>
+            
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

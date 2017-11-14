@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\gittest\\testgit\\BaiduSDKDemo_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\biz_video_list_play_icon_big.png",
+        "source": "E:\\gittest\\testgit\\BaiduSDKDemo_as\\app\\src\\main\\res\\drawable-xxhdpi\\biz_video_list_play_icon_big.png"
+    },
+    {
+        "merged": "E:\\gittest\\testgit\\BaiduSDKDemo_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\fvl_primary.9.png",
+        "source": "E:\\gittest\\testgit\\BaiduSDKDemo_as\\app\\src\\main\\res\\drawable-xxhdpi\\fvl_primary.9.png"
+    },
+    {
+        "merged": "E:\\gittest\\testgit\\BaiduSDKDemo_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\fvl_control_normal.png",
+        "source": "E:\\gittest\\testgit\\BaiduSDKDemo_as\\app\\src\\main\\res\\drawable-xxhdpi\\fvl_control_normal.png"
+    },
+    {
+        "merged": "E:\\gittest\\testgit\\BaiduSDKDemo_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\fvl_secondary.9.png",
+        "source": "E:\\gittest\\testgit\\BaiduSDKDemo_as\\app\\src\\main\\res\\drawable-xxhdpi\\fvl_secondary.9.png"
+    },
+    {
+        "merged": "E:\\gittest\\testgit\\BaiduSDKDemo_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "E:\\gittest\\testgit\\BaiduSDKDemo_as\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\gittest\\testgit\\BaiduSDKDemo_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\dl.png",
+        "source": "E:\\gittest\\testgit\\BaiduSDKDemo_as\\app\\src\\main\\res\\drawable-xxhdpi\\dl.png"
+    },
+    {
+        "merged": "E:\\gittest\\testgit\\BaiduSDKDemo_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\lp.png",
+        "source": "E:\\gittest\\testgit\\BaiduSDKDemo_as\\app\\src\\main\\res\\drawable-xxhdpi\\lp.png"
+    },
+    {
+        "merged": "E:\\gittest\\testgit\\BaiduSDKDemo_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\fvl_track.9.png",
+        "source": "E:\\gittest\\testgit\\BaiduSDKDemo_as\\app\\src\\main\\res\\drawable-xxhdpi\\fvl_track.9.png"
+    }
+]

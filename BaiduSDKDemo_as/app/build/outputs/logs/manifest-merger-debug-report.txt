@@ -1,0 +1,307 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:2:1-165:12
+	package
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml
+		INJECTED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml
+		INJECTED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml
+		INJECTED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:8:22-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:12:22-73
+application
+ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:14:5-163:19
+MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\Administrator\.android\build-cache\73c9b163a18f568096a560eddaef4ce88ce70af7\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\Administrator\.android\build-cache\f887c1601d430a0aa25beb0ab5316d81d647d0dd\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\Administrator\.android\build-cache\9837733bb10adae6df87f5a8324f15f73930c01b\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:cardview-v7:24.1.1] C:\Users\Administrator\.android\build-cache\3d6115d8bd122d851be03aa98b807cab2e74d1cf\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\Administrator\.android\build-cache\6d86b3847d9dfbe2d1438c1602d990e07e480ac2\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:16:9-41
+	android:icon
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:15:9-38
+meta-data#BaiduMobAd_APP_ID
+ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:18:9-20:40
+	android:value
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:19:13-45
+provider#com.baidu.mobads.openad.FileProvider
+ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:23:9-31:20
+	android:authorities
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:25:13-61
+		INJECTED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml
+	android:grantUriPermissions
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:27:13-47
+	android:exported
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:24:13-64
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:28:13-30:57
+	android:resource
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:30:17-54
+	android:name
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:29:17-67
+activity#com.baidu.mobads.AppActivity
+ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:35:9-38:75
+	android:configChanges
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:37:13-72
+	android:theme
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:38:13-72
+	android:name
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:36:13-56
+activity#com.baidu.mobads.demo.main.RSplashActivity
+ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:41:9-52:20
+	android:screenOrientation
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:45:13-49
+	android:label
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:44:13-45
+	android:configChanges
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:43:13-63
+	android:theme
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:46:13-60
+	android:name
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:42:13-70
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:47:13-51:29
+action#android.intent.action.MAIN
+ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:48:17-69
+	android:name
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:48:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:50:17-77
+	android:name
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:50:27-74
+activity#com.baidu.mobads.demo.main.BaiduSDKDemo
+ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:55:9-58:20
+	android:label
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:57:13-45
+	android:name
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:56:13-67
+activity#com.baidu.mobads.demo.main.BannerAdActivity
+ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:59:9-61:53
+	android:label
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:61:13-50
+	android:name
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:60:13-71
+activity#com.baidu.mobads.demo.main.banner.BannerDemoActivity
+ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:62:9-64:53
+	android:label
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:64:13-50
+	android:name
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:63:13-80
+activity#com.baidu.mobads.demo.main.banner.BannerAd1Activity
+ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:65:9-67:53
+	android:label
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:67:13-50
+	android:name
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:66:13-79
+activity#com.baidu.mobads.demo.main.banner.BannerAd2Activity
+ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:68:9-70:53
+	android:label
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:70:13-50
+	android:name
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:69:13-79
+activity#com.baidu.mobads.demo.main.banner.BannerAd3Activity
+ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:71:9-73:53
+	android:label
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:73:13-50
+	android:name
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:72:13-79
+activity#com.baidu.mobads.demo.main.banner.BannerAd4Activity
+ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:74:9-76:53
+	android:label
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:76:13-50
+	android:name
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:75:13-79
+activity#com.baidu.mobads.demo.main.InterstitialAdActivity
+ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:77:9-79:53
+	android:label
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:79:13-50
+	android:name
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:78:13-77
+activity#com.baidu.mobads.demo.main.InterstitialAdForVideoAppActivity
+ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:80:9-82:63
+	android:label
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:82:13-60
+	android:name
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:81:13-62
+activity#com.baidu.mobads.demo.main.feeds.FeedNativeListViewActivity
+ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:83:9-86:20
+	android:label
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:85:13-45
+	android:name
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:84:13-87
+activity#com.baidu.mobads.demo.main.feeds.FeedNativeOriginActivity
+ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:87:9-90:20
+	android:label
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:89:13-45
+	android:name
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:88:13-85
+activity#com.baidu.mobads.demo.main.feeds.FeedNativeVideoActivity
+ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:91:9-97:20
+	android:screenOrientation
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:95:13-49
+	android:label
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:94:13-45
+	android:configChanges
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:93:13-74
+	android:theme
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:96:13-54
+	android:name
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:92:13-84
+activity#com.baidu.mobads.demo.main.feeds.FeedH5ListViewRealTimeActivity
+ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:98:9-104:20
+	android:screenOrientation
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:102:13-49
+	android:label
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:101:13-45
+	android:configChanges
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:100:13-74
+	android:theme
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:103:13-54
+	android:name
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:99:13-91
+activity#com.baidu.mobads.demo.main.feeds.FeedH5ListViewPreloadActivity
+ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:105:9-111:20
+	android:screenOrientation
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:109:13-49
+	android:label
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:108:13-45
+	android:configChanges
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:107:13-74
+	android:theme
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:110:13-54
+	android:name
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:106:13-90
+activity#com.baidu.mobads.demo.main.feeds.FeedH5RecyclerViewRealTimeActivity
+ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:112:9-118:20
+	android:screenOrientation
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:116:13-49
+	android:label
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:115:13-45
+	android:configChanges
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:114:13-74
+	android:theme
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:117:13-54
+	android:name
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:113:13-95
+activity#com.baidu.mobads.demo.main.feeds.FeedH5RecyclerViewPreloadActivity
+ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:119:9-125:20
+	android:screenOrientation
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:123:13-49
+	android:label
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:122:13-45
+	android:configChanges
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:121:13-74
+	android:theme
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:124:13-54
+	android:name
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:120:13-94
+activity#com.baidu.mobads.demo.main.feeds.FeedH5LunBoActivity
+ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:126:9-132:20
+	android:screenOrientation
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:130:13-49
+	android:label
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:129:13-45
+	android:configChanges
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:128:13-74
+	android:theme
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:131:13-54
+	android:name
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:127:13-80
+activity#com.baidu.mobads.demo.main.feeds.FeedH5ChuChuangActivity
+ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:133:9-139:20
+	android:screenOrientation
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:137:13-49
+	android:label
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:136:13-45
+	android:configChanges
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:135:13-74
+	android:theme
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:138:13-54
+	android:name
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:134:13-84
+activity#com.baidu.mobads.demo.main.basevideo.PrerollActivity
+ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:140:9-145:20
+	android:screenOrientation
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:144:13-49
+	android:label
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:143:13-45
+	android:configChanges
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:142:13-74
+	android:name
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:141:13-80
+activity#com.baidu.mobads.demo.main.basevideo.PrerollNativeActivity
+ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:146:9-149:20
+	android:label
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:148:13-45
+	android:name
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:147:13-86
+activity#com.baidu.mobads.demo.main.CpuAdActivity
+ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:151:9-156:20
+	android:screenOrientation
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:155:13-49
+	android:label
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:154:13-45
+	android:configChanges
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:153:13-74
+	android:name
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:152:13-68
+activity#com.baidu.mobads.demo.main.jssdk.HybridInventoryActivity
+ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:157:9-162:20
+	android:screenOrientation
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:161:13-49
+	android:label
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:160:13-45
+	android:configChanges
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:159:13-74
+	android:name
+		ADDED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml:158:13-84
+uses-sdk
+INJECTED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\Administrator\.android\build-cache\73c9b163a18f568096a560eddaef4ce88ce70af7\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\Administrator\.android\build-cache\f887c1601d430a0aa25beb0ab5316d81d647d0dd\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\Administrator\.android\build-cache\9837733bb10adae6df87f5a8324f15f73930c01b\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:cardview-v7:24.1.1] C:\Users\Administrator\.android\build-cache\3d6115d8bd122d851be03aa98b807cab2e74d1cf\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.1.1] C:\Users\Administrator\.android\build-cache\25c2ed9ac4bc5889135e5ab2242d93a09378978d\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\Administrator\.android\build-cache\6d86b3847d9dfbe2d1438c1602d990e07e480ac2\output\AndroidManifest.xml:21:5-23:54
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.1.1] C:\Users\Administrator\.android\build-cache\73c9b163a18f568096a560eddaef4ce88ce70af7\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml
+		INJECTED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml
+		INJECTED from E:\gittest\testgit\BaiduSDKDemo_as\app\src\main\AndroidManifest.xml

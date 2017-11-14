@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "E:\\gittest\\testgit\\BaiduSDKDemo_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\recmd_blue_bidu.png",
+        "source": "E:\\gittest\\testgit\\BaiduSDKDemo_as\\app\\src\\main\\res\\drawable-xhdpi\\recmd_blue_bidu.png"
+    },
+    {
+        "merged": "E:\\gittest\\testgit\\BaiduSDKDemo_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\mp_close.png",
+        "source": "E:\\gittest\\testgit\\BaiduSDKDemo_as\\app\\src\\main\\res\\drawable-xhdpi\\mp_close.png"
+    },
+    {
+        "merged": "E:\\gittest\\testgit\\BaiduSDKDemo_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\music.png",
+        "source": "E:\\gittest\\testgit\\BaiduSDKDemo_as\\app\\src\\main\\res\\drawable-xhdpi\\music.png"
+    },
+    {
+        "merged": "E:\\gittest\\testgit\\BaiduSDKDemo_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\biz_video_play.png",
+        "source": "E:\\gittest\\testgit\\BaiduSDKDemo_as\\app\\src\\main\\res\\drawable-xhdpi\\biz_video_play.png"
+    },
+    {
+        "merged": "E:\\gittest\\testgit\\BaiduSDKDemo_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\mp_icon.png",
+        "source": "E:\\gittest\\testgit\\BaiduSDKDemo_as\\app\\src\\main\\res\\drawable-xhdpi\\mp_icon.png"
+    },
+    {
+        "merged": "E:\\gittest\\testgit\\BaiduSDKDemo_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_media_fullscreen_shrink.png",
+        "source": "E:\\gittest\\testgit\\BaiduSDKDemo_as\\app\\src\\main\\res\\drawable-xhdpi\\ic_media_fullscreen_shrink.png"
+    },
+    {
+        "merged": "E:\\gittest\\testgit\\BaiduSDKDemo_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon.png",
+        "source": "E:\\gittest\\testgit\\BaiduSDKDemo_as\\app\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\gittest\\testgit\\BaiduSDKDemo_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\recmd_blue_word.png",
+        "source": "E:\\gittest\\testgit\\BaiduSDKDemo_as\\app\\src\\main\\res\\drawable-xhdpi\\recmd_blue_word.png"
+    },
+    {
+        "merged": "E:\\gittest\\testgit\\BaiduSDKDemo_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_media_fullscreen_stretch.png",
+        "source": "E:\\gittest\\testgit\\BaiduSDKDemo_as\\app\\src\\main\\res\\drawable-xhdpi\\ic_media_fullscreen_stretch.png"
+    },
+    {
+        "merged": "E:\\gittest\\testgit\\BaiduSDKDemo_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\biz_video_pause.png",
+        "source": "E:\\gittest\\testgit\\BaiduSDKDemo_as\\app\\src\\main\\res\\drawable-xhdpi\\biz_video_pause.png"
+    },
+    {
+        "merged": "E:\\gittest\\testgit\\BaiduSDKDemo_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\yidonglianmeng.png",
+        "source": "E:\\gittest\\testgit\\BaiduSDKDemo_as\\app\\src\\main\\res\\drawable-xhdpi\\yidonglianmeng.png"
+    },
+    {
+        "merged": "E:\\gittest\\testgit\\BaiduSDKDemo_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\recmd_white_word.png",
+        "source": "E:\\gittest\\testgit\\BaiduSDKDemo_as\\app\\src\\main\\res\\drawable-xhdpi\\recmd_white_word.png"
+    },
+    {
+        "merged": "E:\\gittest\\testgit\\BaiduSDKDemo_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\recmd_white_bidu.png",
+        "source": "E:\\gittest\\testgit\\BaiduSDKDemo_as\\app\\src\\main\\res\\drawable-xhdpi\\recmd_white_bidu.png"
+    },
+    {
+        "merged": "E:\\gittest\\testgit\\BaiduSDKDemo_as\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\music_close.png",
+        "source": "E:\\gittest\\testgit\\BaiduSDKDemo_as\\app\\src\\main\\res\\drawable-xhdpi\\music_close.png"
+    }
+]
